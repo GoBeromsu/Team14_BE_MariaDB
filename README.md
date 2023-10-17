@@ -1,1 +1,1 @@
-# Team14_BE_Redis
+# Team14_BE_MariaDB
